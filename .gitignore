@@ -10,3 +10,7 @@ tests/output
 deps
 .emacs*
 .eunit
+.rebar
+.rebar3
+_deps
+rebar.lock
