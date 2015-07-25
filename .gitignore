@@ -14,3 +14,4 @@ deps
 .rebar3
 _deps
 rebar.lock
+_build
